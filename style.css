@@ -1,0 +1,17 @@
+main {
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    margin: 10%;
+    padding: 5%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.hightlight {
+    background-color: yellowgreen;
+}
+
+.error {
+    background-color: lightcoral;
+    border: red;
+}
